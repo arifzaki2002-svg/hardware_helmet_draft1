@@ -14,7 +14,7 @@ HardwareSerial gpsSerial(2);
 #define WIFI_SSID "mat02"        // e.g., "Ahmad iPhone"
 #define WIFI_PASSWORD "1sampai9" // e.g., "password123"
 #define FIREBASE_HOST "fyp-helmet-c9079-default-rtdb.asia-southeast1.firebasedatabase.app"  // Paste the URL (Remove "https://" and the trailing "/")
-#define FIREBASE_AUTH "AIzaSyCG4RXqGMvyX-WYOs8UomKV4xbfNWeiyy4"   // Paste the Web API Key
+#define FIREBASE_AUTH // Paste the Web API Key
 
 // Firebase Data Objects
 FirebaseData firebaseData;
